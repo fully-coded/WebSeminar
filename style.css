@@ -1,0 +1,24 @@
+.latar {
+  background-color: #6b76ff;
+}
+
+.container h1 {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.container p {
+  text-align: center;
+}
+
+.latar img {
+  margin-right: 10px;
+}
+
+section {
+  margin-bottom: 25px;
+}
+footer {
+  background-color: #a5aeff;
+  padding-top: 25px;
+}
